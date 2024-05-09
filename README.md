@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NKWEATU
 - 👀 I’m interested in software development and cybersecurity
 - 🌱 I’m currently an experienced Java developer still open minded to learning more.
-- 💞️ I’m looking to collaborate on desktop and web applications
+- 💞️ I’m looking to collaborate on desktop, mobile and web applications
 - 📫 How to reach me nkweatukennedy@gmail.com or kennynkweatu123@gmail.com
 - 😄 Pronouns: I have keen interest in java programming and i don't joke with my codes!.
 - ⚡ Fun fact: Programmers own the world
