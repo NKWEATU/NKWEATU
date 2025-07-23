@@ -5,7 +5,7 @@
 -My Website is https://nkweatu.github.io/kennedy-nkweatu/
 - 💞️ I’m looking forward to collaborating with other programmers on desktop, mobile and web applications
 - 📫 How to reach me is through nkweatukennedy@gmail.com or kennynkweatu123@gmail.com
-- 😄 Pronouns: I have keen interest in java programming and i don't joke with my codes!.
+- 😄 Pronouns: I have keen interest in programming and i don't joke with my codes!.
 - ⚡ Fun fact: Programmers are the backbone of the modern century and i am one of them.
 
 <!---
