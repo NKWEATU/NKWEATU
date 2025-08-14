@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NKWEATU
-- 👀 I’m interested in Mathematics, Software development, Artificial Intelligence and Cybersecurity
+- 👀 I’m interested in Mathematics, Software development, Artificial Intelligence(Machine Learning) and Cybersecurity
 - 🌱 I’m currently an experienced Java developer working as a course instructor at the Faculty of Sofware Engineering, National Instsitute of Information Technology(NIIT), Abuja, Nigeria. I am still open minded to learning more.
 - https://github.com/NKWEATU
 -My Website is https://nkweatu.github.io/kennedy-nkweatu/
